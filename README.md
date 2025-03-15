@@ -16,4 +16,4 @@ esptool --port COM4 write_flash -z 0x1000 firmware.bin
 
 (you'll probably need to change "COM4" to your port)
 
-2025 Mar 14 - firmware no longer available and github jobs now failing owing to deprecation of v3 actions
+2025 Mar 14 - firmware no longer available and github jobs now failing owing to deprecation of v3 actions.
